@@ -1,8 +1,3 @@
-// function sayHello(name) {
-//     let msg = 'Hello, ' + name + '.How are you?';
-//     return msg;
-// }
-
 sayHello = (name) => {
     let msg = 'Hello, ' + name + '. How are you?';
     return msg;
